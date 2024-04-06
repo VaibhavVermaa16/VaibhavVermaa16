@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on DApps.
 - 📫 How to reach me: mail- vaibhavvermaa16@gmail.coM
--                     instagram- V_.A_I_B_H_A_.V
+- instagram- vaibhavrverma

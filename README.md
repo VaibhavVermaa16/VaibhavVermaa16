@@ -1,30 +1,58 @@
-Hello, World! 👋
-I'm Vaibhav verma, an enthusiastic AI/ML explorer, passionate web developer, and avid competitive programmer, eager to contribute to the open-source community. My journey in AI/ML has been driven by a fascination with the transformative power of data and algorithms. I love crafting intelligent solutions that can make a difference.
+# Hi there, I'm Vaibhav Verma 👋  
 
-🔭 Current Focus:
+🚀 **AI Software Engineer Intern | Competitive Programmer | Builder of Impactful Projects**  
 
-- Building innovative AI/ML projects
-- Developing robust web applications
-- Enhancing problem-solving skills through competitive programming
+I’m a **2nd-year Engineering Student** with a strong passion for **AI/ML, backend engineering, and problem-solving**.  
+I love building projects that blend **intelligence + scalability**, and I’m on a mission to create impactful products that solve real-world problems.  
 
-🌱 Always Learning:
+---
 
-- Deepening my expertise in machine learning and AI
-- Exploring the latest trends and advancements in web development
-- Tackling challenging problems on platforms like Codeforces and CodeChef
+## 🔹 About Me  
+- 🏢 Interned at **Uber**, where I worked on **GenAI-powered automation using MCP servers** to streamline and automate GitHub-related tasks
+- 💻 Worked as an **AI Software Engineer Intern at Qlink**   
+- ⚡ Strong in **backend development** (Node.js, Go, FastAPI) and **AI/ML applications**  
+- 📊 Passionate about **Competitive Programming & DSA** (constantly pushing my problem-solving limits)  
+- ☁️ Exploring **DevOps, CI/CD, Docker, and Kubernetes** to grow into a full-stack engineer  
+- 📚 Currently learning **OOP in Java** and expanding my **system design & LLD knowledge**  
+- 🎯 Interested in building **unique, impactful projects** that go beyond simple apps  
 
-💡 Why AI/ML?
+---
 
-AI/ML opens up a world of possibilities to create smarter, more efficient solutions. From predictive analytics to intelligent automation, I'm excited about the impact AI/ML can have on our lives.
+## 🔹 Tech Stack  
 
-💻 Let's Collaborate!
+**Languages:**  
+`Python` `C++` `Java` `JavaScript` `Go`  
 
-I'm always open to collaborating on exciting projects and learning from the community. Let's build something amazing together!
+**Frameworks & Libraries:**  
+`Node.js` `FastAPI` `Flask` `React (Vite)` `Next.js`  
 
-🚀 My Mission:
+**Databases & Tools:**  
+`MongoDB` `Pinecone` `PostgreSQL` `Docker` `Git/GitHub`  
 
-To leverage the power of AI/ML, web development, and competitive programming to contribute meaningfully to the tech community and make a positive impact on the world.
+**AI/ML:**  
+`TensorFlow` `PyTorch` `Facenet` `NLP Pipelines` `RAG Applications`  
 
-- Mail: vaibhavvermaa16@gmail.com
-- Instagram: vaibhavrverma
-- LinkedIn: https://bit.ly/3S8fGCm
+---
+
+## 🔹 Highlight Projects  
+
+🔹 **ABSENS** – Attendance system with **facial recognition** + **vector databases** (built backend + embeddings system)  
+🔹 **Chat Analyzer Dashboard** – Full-stack project with **FastAPI + React (Vite)** visualizing WhatsApp stats  
+🔹 **Advanced Blogging Platform** – Node.js + Next.js platform with **RAG-based Q&A** on blog content  
+
+---
+
+## 🔹 Competitive Programming  
+- 🏆 Regularly practicing DSA & CP, focusing on deep understanding with **analogies & memory hacks**  
+- Solving problems in **C++** with clean, optimized, and human-like solutions  
+
+---
+
+## 🔹 Let's Connect  
+
+📫 Reach me at: **vaibhavvermaa16@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/vaibhavrverma) 
+
+---
+
+⭐️ *“I believe in building things that are unique, impactful, and over-engineered if needed. Code is not just to run, it’s to solve problems at scale.”*
